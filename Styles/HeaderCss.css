@@ -1,0 +1,9 @@
+.nav-1{
+        background: linear-gradient(rgba(0, 0, 255, 0.077), rgba(255, 192, 203, 0.192), white);
+        transition: all o.5s ease-in-out;
+}
+.nav-1:hover{
+        background: none;
+}
+
+
